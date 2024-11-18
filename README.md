@@ -21,9 +21,6 @@ WebActioneer is a lightweight tool for automating web interactions. This script 
 - Use this tool responsibly and in accordance with platform policies.
 - Frequent or excessive usage might result in account limitations.
 
-### License
-This project is open-source and licensed under the MIT License. Feel free to use, modify, and distribute.
-
 ---
 
 ## Türkçe
